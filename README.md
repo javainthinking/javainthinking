@@ -4,12 +4,14 @@
 
 I am the product manager of Database Product Group in Alibaba Cloud.
 
+
 ## I like
 
 - Technology innovation, exploring the technology world
 - Scale modeling, something like https://www.youtube.com/c/Scaleaton
 - Coding, area including database kernal, cloud computing, cloud infrastructure as code (IaC, e.g, Terraform)
 - History & Chinese Classical Philosophy
+
 
 ### Connect with me
 
