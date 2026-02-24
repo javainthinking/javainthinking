@@ -7,7 +7,7 @@ Product manager and vibe coder in Data and AI area.
 
 ## I like
 
-- AI vibe coding
+- AI vibe coding, working with my Claude Code and Openclaw Agent Team
 - Technology innovation, exploring the technology world
 - Coding, area including database kernal, cloud computing, AI, cloud infrastructure as code (IaC, e.g, Terraform), etc.
 - Scale modeling, something like https://www.youtube.com/c/Scaleaton
