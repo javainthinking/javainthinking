@@ -7,7 +7,7 @@ Product manager and builder in Data and AI area.
 
 ## I like
 
-- Working with my Claude Code and Openclaw Agent Team
+- Working with my Claude Code, Codex, Openclaw and Hermes Agent Team
 - Technology innovation, exploring the technology world
 - Coding, area including database kernal, cloud computing, AI, cloud infrastructure as code (IaC, e.g, Terraform), etc.
 - Scale modeling, something like https://www.youtube.com/c/Scaleaton
